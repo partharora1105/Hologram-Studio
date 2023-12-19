@@ -1,0 +1,1 @@
+/home/maac/Desktop/VulkanSamples/API-Samples/get-short-descripts.sh
